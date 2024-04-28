@@ -1,5 +1,5 @@
 # Personal-Blog
-
+In this challenge, I have to create a two-page website where users will enter and blog posts. It includes creating a content form, dynamically rendering blog posts, and implementing a light/dark mode switch.
 
 ## User Story 
 AS A marketing student
@@ -32,5 +32,12 @@ WHEN I view the footer,
 THEN I am presented with a link to the developer's portfolio.
 
 ## Images of the website:
+![homework4](https://github.com/fabianmedina3012/Employee-Payroll/assets/164245084/af8fe71d-d233-4c48-ac78-3149a59292b8)
+![homework4 2](https://github.com/fabianmedina3012/Employee-Payroll/assets/164245084/f296ca73-6b5b-4d8c-a67d-7fef67893789)
+
+
+
+## Link to URL:
+
 
 
